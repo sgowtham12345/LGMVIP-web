@@ -1,0 +1,55 @@
+body{
+    width:50%;
+    margin:0 auto;
+    background: linear-gradient(90deg,  #0000ff 0%,#FF0000 100%);
+    text-align: center;
+}
+
+
+h1 {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 5em;
+    color:rgb(195, 225, 249);
+    letter-spacing: -2px;
+    border-bottom: 1px solid rgb(195, 225, 249) ;
+    text-transform: uppercase;
+    text-align-last: center;
+   }
+
+#inputfield{
+    width:300px;
+    height: 50px;
+    border:2px solid  rgb(28, 103, 159) ;
+    vertical-align: middle;
+    font-size:30px;
+
+}
+
+#addbutton{
+
+    width: 100px;
+    height:56px;
+    border:1px solid rgb(28, 103, 159)  ;
+    background-color:  rgb(28, 103, 159) ;
+    color:white;
+    font-family: "Trebuchet MS", sans-serif;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+
+    
+}
+
+
+
+.paragraph-styling{
+   
+    height: 45px;
+    width:390px;
+    cursor:pointer;
+    font-size:28px;
+    text-align: center;
+    background-color:  rgb(28, 103, 159);
+    color:white;
+    font-family: "Trebuchet MS", sans-serif;
+}
